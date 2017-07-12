@@ -65,7 +65,7 @@ Sifo-Dyas
               / _ \ #  |
              |  #  |#  |   B-SD3 Security Droid
           LS |  #  |#  |      - Front View -
-
+          
 
 (http://www.ascii-art.de/ascii/s/starwars.txt)
 
