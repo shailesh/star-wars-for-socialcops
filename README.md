@@ -39,8 +39,6 @@ Please share your method and implementation in great detail with us so that it c
 May the force be with you.
 
 Sifo-Dyas
-
-
                                  +---------------------+
                                  | Whats going on here?|
                                  +------------------+--+
