@@ -68,8 +68,6 @@ that it can be added to our records in the Jedi Temple. I wish you luck.
 May the force be with you.
 
 - Sifo-Dyas
-
-
                                  +---------------------+
                                  | Whats going on here?|
                                  +------------------+--+
