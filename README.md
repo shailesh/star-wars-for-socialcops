@@ -1,4 +1,3 @@
-			```
 						         +---------------------+
 						         | Whats going on here?|
 						         +------------------+--+
@@ -24,8 +23,6 @@
 				     |  #  |#  |
 				     |  #  |#  | 
 
-
-```
 #Setting Up and Usage:
 
 1. Create a API on dropbox and set the authorization token in the config.py file.
