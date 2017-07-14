@@ -23,8 +23,6 @@
               / _ \ #  |
              |  #  |#  |   
              |  #  |#  |      
-
-
 ```
 #Setting Up and Usage:
 
@@ -37,7 +35,7 @@
   
   Append the below line to the file with the appropriate path to the file.   
 
-  */2 * * * * /usr/bin/python /home/arpan/gitProjects/FolderSync/fileDownload.py  
+  */2 * * * * /usr/bin/python /home/shailesh/Documents/SocialCops/fileDownload.py  
    
    This enables us to run the script fileDownload.py every 2 mins where the script iterates through the files on dropbox client and downloads the
    necessary files onto our system.  
