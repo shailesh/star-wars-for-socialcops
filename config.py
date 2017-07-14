@@ -1,0 +1,5 @@
+ACCESS_TOKEN="rC0UCqPq6s8AAAAAAAAAQ2O-vBTz4h__k6nti8nPQddwa2J5mza3YXuikKtdu-Jw"
+LOCAL_DIRECTORY_WATCH="/home/shailesh/Documents/Documents/"
+DROPBOX_SYNC_LOCATION="/New_Product"
+APP_KEY="hnhzmex85j40z0j"
+APP_SECRET="hnhzmex85j40z0j"
