@@ -45,17 +45,5 @@
 #Installation and Dependencies
 
 **sudo pip install dropbox**
+
 **sudo pip install watchdog**
-
-
-#Additional Considerations
-
-You might get the following warning on running the scripts
-
-/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:318: SNIMissingWarning: An HTTPS request has been made, but the SNI (Subject Name Indication) extension to TLS is not available on this platform. This may cause the server to present an incorrect TLS certificate, which can cause validation failures. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.io/en/latest/security.html#snimissingwarning.
-  SNIMissingWarning
-
-
-Refer to the below stackoverflow link and install the dependencies to solve the warning.
-
-http://stackoverflow.com/questions/29134512/insecureplatformwarning-a-true-sslcontext-object-is-not-available-this-prevent
